@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bhavish R</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | CSE Undergrad | C++ Enthusiast, Passionate Developer</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | CSE Undergrad | C++ Enthusiast & Passionate Developer</h3>
 
 ---
 
@@ -24,9 +24,10 @@
 ### 📊 Competitive Programming  
 
 #### 🧠 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/progress?theme=dark&font=baloo&ext=contest)
+<!-- Correct live card with your username -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/BHSVISH?theme=dark&font=baloo&ext=contest)
 
-*(Live data from your LeetCode profile — updates automatically!)*  
+*(Live data from LeetCode — updates automatically!)*
 
 ---
 
@@ -45,3 +46,4 @@
 ---
 
 <p align="center">✨ “Code. Create. Conquer.” ✨</p>
+
